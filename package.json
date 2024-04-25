@@ -1,0 +1,15 @@
+{
+  "name": "pupetter-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "author": "vickonrails <victorofoegbu0009@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2",
+    "puppeteer": "^22.7.1"
+  },
+  "scripts": {
+    "dev": "node ./index.js"
+  }
+}
